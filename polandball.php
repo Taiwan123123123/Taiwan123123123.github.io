@@ -14,6 +14,6 @@ $headers .= "Reply to: $name1 \r\n"
   
 mail($to,$email_subject,$email_body,$headers);
 
-header("Location: polandball.html")
+header("Location: polandball.html");
 
 ?>

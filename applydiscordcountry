@@ -1,0 +1,23 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <title>申請進入Republic of Etheldreba</title>
+    </head>
+  
+  <body>
+    <div class="title">
+      <font size="+4" face="Verdana">申請進入Republic of Etheldreba</font>
+      </div>
+    <div class="form">
+      <form id="form" method="post" action="https://formspree.io/f/xrgrjgjn">
+        
+       <input name="name" type="text" class="form-control" placeholder="你的名字(暱稱)">
+        <br>
+       <input name="whyyouwantjoin" type="text" class="form-control" placeholder="為什麼你要加入這伺服器">
+        <input name="nameandtag" type="text" class="form-control" placeholder="你的Discord名字和Tag">
+        
+        <input type=submit class="submit">
+        </form>
+      </body>
+    </html>
